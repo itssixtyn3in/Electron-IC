@@ -19,7 +19,7 @@ The Builder script will walk you through building your Electron application base
 The training module covers multiple different Electron vulnerabilities, so that offensive security testers can learn how to exploit them and defensive testers can confirm their alerting mechanisms.
 
 The following training to capture flags can be done in combination with the following TryHackMe room:
-https://tryhackme.com/room/electron
+https://tryhackme.com/room/electron (password electron)
 
 The training currently covers the following:
 - About Electron
